@@ -2,6 +2,6 @@ package com.ujjwal.helper;
 
 public class CommonUtil {
 	void method(){
-		System.out.println("Alpha++");
+		System.out.println("Alpha+");
 	}
 }
